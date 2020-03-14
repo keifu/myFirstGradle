@@ -1,2 +1,0 @@
-# myFirstGradle
-gradle
