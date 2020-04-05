@@ -17,7 +17,7 @@ public class LibraryTest {
     	
     	System.out.println("HelloWorld");
         
- 
+
     	System.out.println("HelloWorld 3");
     	
     	System.out.println("HelloWorld 4");
@@ -49,6 +49,8 @@ public class LibraryTest {
     private void testNewMethod() {
         
         System.out.println("3");
+    	
+    	 System.out.println("1");
     	
     }
 }
