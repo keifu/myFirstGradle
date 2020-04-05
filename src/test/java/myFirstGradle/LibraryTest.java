@@ -36,6 +36,8 @@ public class LibraryTest {
     }
     
     private void testNewMethod() {
+        
+        System.out.println("3");
     	
     }
 }
