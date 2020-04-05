@@ -32,7 +32,7 @@ public class LibraryTest {
     }
     
     private testRebase2() {
-    	
+    	System.out.println("testRebase2");
     }
     
     private void testNewMethod() {
