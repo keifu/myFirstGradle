@@ -27,6 +27,8 @@ public class LibraryTest {
     
     private void testRebase() {
     	System.out.println("test Rebase");
+        
+        System.out.println("3");
     }
     
     private testRebase2() {
