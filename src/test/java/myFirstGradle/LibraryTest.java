@@ -24,6 +24,10 @@ public class LibraryTest {
     	
     	System.out.println("HelloWorld 5");
     }
+    
+    private void testRebase() {
+    	
+    }
 }
 
 
