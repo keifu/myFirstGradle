@@ -31,8 +31,10 @@ public class LibraryTest {
         System.out.println("3");
     }
     
-    private testRebase2() {
+    private void testRebase2() {
     	System.out.println("testRebase2");
+    	
+    	System.out.println("testRebase2 again");
     }
     
     private void testNewMethod() {
