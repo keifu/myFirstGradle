@@ -58,6 +58,7 @@ public class LibraryTest {
     
     public void testAnotherRebase(){
     	
+        System.out.println("3");
     }
     
     
