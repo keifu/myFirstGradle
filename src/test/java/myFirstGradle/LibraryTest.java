@@ -29,7 +29,11 @@ public class LibraryTest {
     	
     }
     
-        private void testNewMethod() {
+    private testRebase2() {
+    	
+    }
+    
+    private void testNewMethod() {
     	
     }
 }
