@@ -28,6 +28,10 @@ public class LibraryTest {
     private void testRebase() {
     	
     }
+    
+        private void testNewMethod() {
+    	
+    }
 }
 
 
