@@ -11,6 +11,13 @@ public class LibraryTest {
         Library classUnderTest = new Library();
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
+    
+    
+    private void testRandom() {
+    	
+    	System.out.println("HelloWorld");
+    	
+    }
 }
 
 
