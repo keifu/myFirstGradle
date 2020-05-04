@@ -65,6 +65,16 @@ public class LibraryTest {
      public void testConflict(){
     }
     
+    private void testRebase() {
+    	System.out.println("test Rebase");
+        
+        System.out.println("1");
+        
+        System.out.println("2");
+        
+        System.out.println("3");
+    }    
+    
     
 }
 
