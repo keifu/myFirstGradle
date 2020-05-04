@@ -62,6 +62,9 @@ public class LibraryTest {
         System.out.println("3");
     }
     
+     public void testConflict(){
+    }
+    
     
 }
 
