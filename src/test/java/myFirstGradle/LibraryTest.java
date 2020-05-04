@@ -63,6 +63,8 @@ public class LibraryTest {
     }
     
      public void testConflict(){
+         
+         System.out.println("Another conflict");
     }
     
     private void testRebase() {
