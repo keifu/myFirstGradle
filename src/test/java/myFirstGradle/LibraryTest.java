@@ -77,6 +77,10 @@ public class LibraryTest {
         System.out.println("3");
     }    
     
+     private void callToTestRebase() {
+        testRebase();
+    }  
+    
     
 }
 
