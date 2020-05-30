@@ -7,6 +7,7 @@ public class Library {
     private int b;
     private int a;
     private int c;
+    private int d;
     private int e;
     private int g;
     public boolean someLibraryMethod() {
