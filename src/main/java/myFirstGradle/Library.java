@@ -9,7 +9,6 @@ public class Library {
     /**
      * Method comment
      *
-     * @return
      */
     public boolean someLibraryMethod() {
         return true;
