@@ -14,6 +14,7 @@ public abstract class MyFirstIntellijClass {
     }
 
     //Another comment
+    //More comments
     void packageMethod(){
 
     }
