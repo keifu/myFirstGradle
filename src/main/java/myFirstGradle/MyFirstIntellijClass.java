@@ -3,7 +3,7 @@ package myFirstGradle;
 public abstract class MyFirstIntellijClass {
 
 
-
+    //Add comment
     private void privateMethod(){
 
     }
