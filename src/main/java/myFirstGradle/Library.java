@@ -6,10 +6,6 @@ package myFirstGradle;
 public class Library {
 
     private int a;
-    /**
-     * Method comment
-     *
-     */
     public boolean someLibraryMethod() {
         return true;
     }
