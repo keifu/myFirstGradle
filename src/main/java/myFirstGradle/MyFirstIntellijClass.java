@@ -13,6 +13,7 @@ public abstract class MyFirstIntellijClass {
 
     }
 
+    //Another comment
     void packageMethod(){
 
     }
