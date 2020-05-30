@@ -20,6 +20,7 @@ public class Library {
     private int o;
     private int p;
     private int Q;
+    private int r;
     public boolean someLibraryMethod() {
         return true;
     }
