@@ -6,6 +6,7 @@ package myFirstGradle;
 public class Library {
     private int b;
     private int a;
+    private int c;
     public boolean someLibraryMethod() {
         return true;
     }
