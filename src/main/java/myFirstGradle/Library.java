@@ -11,6 +11,7 @@ public class Library {
     private int e;
     private int f;
     private int g;
+    private int h;
     public boolean someLibraryMethod() {
         return true;
     }
