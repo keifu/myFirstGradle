@@ -7,12 +7,12 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 
 public class LibraryTest {
+
     @Test public void testSomeLibraryMethod() {
         Library classUnderTest = new Library();
         assertTrue("someLibraryMethod should return 'true'", classUnderTest.someLibraryMethod());
     }
-    
-    
+
     private void testRandom() {
     	
     	System.out.println("HelloWorld");
@@ -66,16 +66,7 @@ public class LibraryTest {
          
          System.out.println("Another conflict");
     }
-    
-    private void testRebase() {
-    	System.out.println("test Rebase");
-        
-        System.out.println("1");
-        
-        System.out.println("2");
-        
-        System.out.println("3");
-    }    
+
     
      private void callToTestRebase() {
         testRebase();

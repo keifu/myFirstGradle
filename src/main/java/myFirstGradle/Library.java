@@ -4,7 +4,15 @@
 package myFirstGradle;
 
 public class Library {
+
+    private int a;
+    /**
+     * Method comment
+     *
+     * @return
+     */
     public boolean someLibraryMethod() {
         return true;
     }
+
 }
