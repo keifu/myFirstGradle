@@ -4,7 +4,7 @@
 package myFirstGradle;
 
 public class Library {
-
+    private int b;
     private int a;
     public boolean someLibraryMethod() {
         return true;
