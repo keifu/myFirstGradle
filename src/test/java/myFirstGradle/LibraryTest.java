@@ -70,6 +70,8 @@ public class LibraryTest {
     
      private void callToTestRebase() {
         testRebase();
+         
+        System.out.println("Hellworld");
     }  
     
     
